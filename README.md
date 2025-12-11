@@ -1,74 +1,111 @@
-
 <p align="center">
   <img src="profile.jpg" width="260" style="border-radius: 12px;">
 </p>
 
-# Velissarios — Personal Portfolio  
-*Hospitality Professional | Future AI Learner | Creative | Driven for Growth*
+<h1 align="center">Velissarios Koletsis</h1>
+<p align="center"><em>Turning challenges into solutions.</em></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Hospitality-Professional-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/AI-Learner-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Fitness-Improving-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Creativity-Active-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Customer%20Experience-Expert-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Service%20Recovery-Advanced-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Remote%20Ready-Yes-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/AI-Learner-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/English-C2-brightgreen?style=for-the-badge">
 </p>
 
 ---
 
-## 👋 About Me  
-My name is **Velissarios**, and I’m a hospitality professional based in Limassol.  
-I’m focused on **personal growth**, **financial freedom**, and learning **AI**, **investing**, and **long-term wealth building**.
+## ⭐ Professional Summary
 
-I like to challenge myself, improve daily, and move toward a better version of who I can become.
+<div style="background-color:#f7f7f7; padding:15px; border-radius:8px;">
+I am a customer-facing professional with 10+ years of experience in high-pressure hospitality environments, specializing in service recovery, conflict resolution, team coordination, and client communication.  
 
----
-
-## 🚀 What I’m Working On  
-- Building a strong **portfolio** and online presence  
-- Learning the fundamentals of **AI** and automation  
-- Improving my **grooming**, **fitness**, and personal brand  
-- Preparing to start the **gym in March 2025**  
-- Exploring **singing** and creativity  
+I excel in situations where calm leadership, fast problem-solving, and clear communication make the difference.  
+Now transitioning into remote customer support, client success, and operations roles where I can combine my interpersonal strengths with modern digital tools.
+</div>
 
 ---
 
-## 🎓 Education & Certifications  
-- **IEK AKMI Graduate**  
-- **Vellum Cambridge Certification**  
-- Professional experience in **hospitality and customer service**
+## 👋 About Me
+
+I’m **Velissarios Koletsis**, a reliable and solutions-oriented professional with a proven track record of maintaining high client satisfaction and improving operational efficiency.
+
+My background includes managing high-value client escalations, optimizing workflows, and leading cross-functional teams.  
+I focus on professionalism, clarity, and delivering results under pressure.
 
 ---
 
-## 💼 Skills & Interests  
-- Hospitality & customer experience  
-- Fitness & self-improvement  
-- AI, automation & long-term career growth  
-- Creative writing (lyrics, drill/Latin flow)  
-- Problem-solving & discipline  
+## 🚀 What I’m Working On
+
+- Strengthening my online professional identity  
+- Expanding skills in customer success, remote support, and operations  
+- Learning the fundamentals of AI and digital service tools  
+- Building long-term career stability and new opportunities  
 
 ---
 
-## 🌟 Vision & Goals  
-My long-term goal is to become **financially independent**, improve my lifestyle, and build multiple skillsets — from hospitality to AI and personal branding.
+## 💼 Experience Highlights
 
-This repository is the foundation of that journey.
+- Led a **15-person team** at a 5★ resort, managing all major client escalations  
+- Improved operational efficiency by **~20%** through coordination and process optimization  
+- Maintained **95%+ positive feedback** from clients through proactive service recovery  
+- Delivered exceptional service in fast-paced, high-pressure environments  
+- Operated independent catering services (50–300 guests) with **90%+ satisfaction**  
 
 ---
 
-## 📫 Contact  
-Coming soon (LinkedIn, website, portfolio pages).
+## 🧠 Skills
+
+- Customer Experience & Service Recovery  
+- Advanced Problem Solving & De-escalation  
+- High-Pressure Multitasking & Time Management  
+- Team Coordination, Mentorship & Conflict Resolution  
+- Stakeholder & Client Relationship Management  
+- Rapid CRM & System Learning  
+- Workflow Optimization & Operational Efficiency  
+- C2 English Communication (Written & Verbal)  
+
+---
+
+## 🎓 Education & Certifications
+
+- Degree in Electrical Installations – **VELLUM, Cambridge Internationals**  
+- Leadership & Team Development – **“Empower to Lead”, 2024**  
+- **English – C2** (Pearson English General, ESOL International Level 3)  
+
+---
+
+## 🌍 Vision
+
+To build a stable, future-proof career combining communication, responsibility, and technology.  
+I aim for roles with impact, growth potential, and long-term financial independence.
+
 ---
 
 ## 🔧 Projects
 
-### 🖥️ Personal Portfolio
-A clean, professional portfolio built using GitHub, showcasing my skills, goals, and progress.
+### 🖥️ Professional Portfolio  
+A structured presentation of my background, strengths, and direction.
 
-### 🤖 AI Learning Journey
-Notes, experiments, and early steps into understanding AI fundamentals and automation.
+### 🤖 AI & Digital Tools Learning  
+Documentation of my learning journey into AI fundamentals and operational tools.
 
-### 🏋️ Fitness & Grooming Transformation
-Documenting my progress as I prepare to start the gym in March 2025 and build a healthier lifestyle.
+### 💼 Career Development  
+Ongoing development of my skills, certifications, and readiness for remote customer-facing positions.
 
-### 🎤 Creative Projects
-Songwriting, drill/Latin flow experiments, and vocal training.
+---
+
+## 📫 Contact
+
+- **Email:** velkolet@gmail.com  
+- **Phone:** +357 96638537  
+- **LinkedIn:** [Velissarios Koletsis](https://www.linkedin.com/in/velissarios-koletsis-21340328a/)
+
+<p align="center">
+  <a href="mailto:velkolet@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/velissarios-koletsis-21340328a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
