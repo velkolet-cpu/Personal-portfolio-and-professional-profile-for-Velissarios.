@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="profile.jpg" width="260" style="border-radius: 12px;">
-</p>
 
 # Velissarios — Personal Portfolio  
 *Hospitality Professional | Future AI Learner | Creative | Driven for Growth*
