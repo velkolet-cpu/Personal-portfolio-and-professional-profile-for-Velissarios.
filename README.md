@@ -4,6 +4,19 @@
 
 # Velissarios — Personal Portfolio  
 *Hospitality Professional | Future AI Learner | Creative | Driven for Growth*
+<p align="center">
+  <img src="profile.jpg" width="260" style="border-radius: 12px;">
+</p>
+
+# Velissarios — Personal Portfolio  
+*Hospitality Professional | Future AI Learner | Creative | Driven for Growth*
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hospitality-Professional-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/AI-Learner-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Fitness-Improving-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Creativity-Active-purple?style=for-the-badge">
+</p>
 
 ---
 
