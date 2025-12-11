@@ -49,3 +49,18 @@ This repository is the foundation of that journey.
 
 ## 📫 Contact  
 Coming soon (LinkedIn, website, portfolio pages).
+---
+
+## 🔧 Projects
+
+### 🖥️ Personal Portfolio
+A clean, professional portfolio built using GitHub, showcasing my skills, goals, and progress.
+
+### 🤖 AI Learning Journey
+Notes, experiments, and early steps into understanding AI fundamentals and automation.
+
+### 🏋️ Fitness & Grooming Transformation
+Documenting my progress as I prepare to start the gym in March 2025 and build a healthier lifestyle.
+
+### 🎤 Creative Projects
+Songwriting, drill/Latin flow experiments, and vocal training.
